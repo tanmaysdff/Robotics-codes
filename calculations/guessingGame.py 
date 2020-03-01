@@ -1,0 +1,4 @@
+#This program is a fun game to guess a random number.
+import random
+x= random.randint(1,100)
+print(x)
