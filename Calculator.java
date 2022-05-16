@@ -14,7 +14,7 @@ class Solution {
     }  
   public static void main(String[] args) { 
     while (true) {
-System.out.println ("Please select operation");
+System.out.println ("Please select operation(Press q to quit)");
     
     String operation = System.console().readLine();
       String minus_sub = "-";
